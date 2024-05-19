@@ -1,4 +1,4 @@
-# e-anatomy
+# 中文版e-anatomy破解版，学习影像知识必备的影像解剖图谱app
 中文版e-anatomy破解版，学习影像知识必备的影像解剖图谱app
 之前分享过e-anatomy，那个版本已经不能用应该有一年，这次我花了大价钱弄来了新的中文版e-anatomy解锁版，直接安装就可以直接使用了，很多人肯定还不知道e-anatomy，先介绍一个e-anatomy 这个app。
 

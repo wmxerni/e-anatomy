@@ -6,3 +6,18 @@ e-Anatomy是一个优质的解剖和成像内容图集。它是Web、iPad、iPho
 
 e-anatomy之前的版本是需要下载数据包才能使用的，这次分享的e-anatomy解锁版，安装后就可以直接使用了，进入软件映入眼帘的是各种部位的CT、MRI、血管造影术、插画合集，可以通过种类预计区域过滤来快速找到自己想要部位的相关影像（图文大家看得可能不是很直观，可以看我发布的视频）。
 ![image](https://imgs.mznzd.com/imgs/1701/1.jpg) 
+e-anatomy相关部位的CT影像质量也是相当可以的，就如下面的这个脑部CT，可以看得相当清晰。
+![image](https://imgs.mznzd.com/imgs/1701/2.jpg) 
+e-anatomy有比较多的MRI，说实话，我最不会的就是MRI了，因为在上学的时候也没怎么学，一头雾水，以前要是有e-anatomy这样的软件，我相信在学习影像学这块应该不会有现在这么差了，就光e-anatomy上的MRI，我觉得这软件真的不错。
+![image](https://imgs.mznzd.com/imgs/1701/3.jpg) 
+X线就没啥子说的了，软件里X线该有的都有了的。
+![image](https://imgs.mznzd.com/imgs/1701/4.jpg) 
+血管造影是我最喜欢的e-anatomy的一个点，因为比较直观。
+![image](https://imgs.mznzd.com/imgs/1701/5.jpg) 
+插画嘛，没啥子可见的，可以用人体解剖学图谱，那个解剖结构画得更好，需要人体解剖学图谱，自行找以前的文章。
+![image](https://imgs.mznzd.com/imgs/1701/6.jpg) 
+
+e-anatomy软件下载直通车：https://www.alipan.com/s/JHsNBodG3tV
+提取码: t24n
+在手机上下载后使用手机自带的文件管理解压。
+在手机上下载后使用手机自带的文件管理解压。

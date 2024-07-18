@@ -17,8 +17,4 @@ X线就没啥子说的了，软件里X线该有的都有了的。
 插画嘛，没啥子可见的，可以用人体解剖学图谱，那个解剖结构画得更好，需要人体解剖学图谱，自行找以前的文章。
 ![image](https://imgs.mznzd.com/imgs/1701/6.jpg) 
 
-e-anatomy软件下载直通车：https://www.alipan.com/s/JHsNBodG3tV
-提取码: t24n
-在手机上下载后使用手机自带的文件管理解压。
-在手机上下载后使用手机自带的文件管理解压。
-在手机上下载后使用手机自带的文件管理解压。
+高速下载链接：https://workdrive.zoho.com.cn/file/6oi1d5025f6c635e24717a127b9d97d2c8adc
